@@ -1,0 +1,209 @@
+body{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+#nav{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color:#4b4e59;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    
+}
+
+#logo{
+    width: 120px;
+    height: 75px ;
+    display: flex ;
+    justify-content: space-between;
+}
+
+#ConfBsAs{
+    padding-top: 15px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+#navbarNav{
+    display: flex ;
+    justify-content: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
+
+#ticket{
+    color:  #50bb33;
+
+}
+
+#contenedor-carousel{
+    padding: 0;
+}
+#carousel{
+    height: 600px;
+}
+
+#titulo{
+    position: absolute;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    top: 350px;
+    right: 80px;  
+}
+
+#texto{
+    position: absolute;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    width: 500px;
+    text-align: justify;
+    top: 400px;
+    left:775px ;
+    
+}
+
+#botonticket{
+    position: absolute;
+    bottom: -40px;
+    left:1130px;
+    background-color:  #32a313;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
+#botonticket:hover{
+    background-color: #34495e ;
+
+}
+
+#botonorador{
+    position: absolute;
+    bottom: -40px;
+    left: 950px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
+#botonorador:hover{
+    background-color: #34495e ;
+}
+
+.card-group{
+    margin-top: 70px;
+}
+
+
+#titulo-cartas{
+
+    position: absolute;
+    left: 625px;
+    bottom: -155px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;   
+}
+
+#titulo-cartas2{
+    position: absolute;
+    left: 615px;
+    bottom: -190px;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.card-text{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.div-der{
+    background-image: url(../img/honolulu.jpg);
+    background-size: cover;
+    height: 400px;
+}
+
+.div-izq{
+    background-color: #4b4e59;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+
+
+}
+
+#button{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+#button:hover{
+    background-color: #34495e ;;
+}
+
+#titulo-form{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-bottom: -5px;
+    padding-top: 10px;
+}
+
+#titulo-form2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+#subtitulo{
+    display: flex;
+    justify-content: center;
+}
+
+#formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.col{
+    margin-bottom: 15px;
+    width: 400px;
+}
+
+#floatingTextarea2{
+    width: 778px;
+    height: 150px;
+}
+#titulo-charla{
+    color: rgba(100, 83, 83, 0.904);
+    
+}
+#boton-enviar{
+    width: 778px;
+    background-color:  #51d52d;
+    color: white;
+    margin-bottom: 20px;
+}
+
+#footer{
+    background-color:  #262e46 ;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.nav-link{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
+.nav-link:hover{
+    color: #2c4bac ;
+}
